@@ -1,4 +1,0 @@
-E:\게임 자료\cpp\슈팅게임\x64\Debug\슈팅게임.exe
-E:\게임 자료\cpp\슈팅게임\x64\Debug\슈팅게임.pdb
-E:\VS Project\완성작\콘솔 슈팅게임 - 탁승훈\x64\Debug\슈팅게임.exe
-E:\VS Project\완성작\콘솔 슈팅게임 - 탁승훈\x64\Debug\슈팅게임.pdb
